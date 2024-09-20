@@ -29,7 +29,6 @@ Developed by k3rnel-dev.
 
 ## ⚠️ Disclaimer:
 ```
-This open-source loader is provided for educational purposes only. 
 The author assumes no responsibility for any misuse or illegal activities performed with this software.
 Users are solely responsible for ensuring that their use of this tool complies with all applicable laws and regulations.
 ```
