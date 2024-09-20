@@ -4,7 +4,8 @@
 
 ## 👋 About:
 ```
-This is a simple loader of your executable files using Windows script engines. Secretly downloading to a temporary folder and then launching them.
+This is a simple downloader of your executable files using Windows script engines ( with support obfuscation)
+Hide downloading to a temporary folder and then launching them
 ```
 ## 🏴‍☠️ Features:
 - **Support for 5 loader-methods**: HTA, BAT, CMD, VBS, LNK.
@@ -20,11 +21,6 @@ This is a simple loader of your executable files using Windows script engines. S
 This is projects is a beta version. 
 There might be bugs and errors. 
 Please report any issues on the GitHub Issues page.
-```
-
-## 👤 Author:
-```
-Developed by k3rnel-dev.
 ```
 
 ## ⚠️ Disclaimer:
